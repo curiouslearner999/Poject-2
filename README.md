@@ -43,7 +43,7 @@ CRUD App to pick your favorite teams
      
 
  - Add Teams to Favorite List
- - Remove Tam from Favorite List
+ - Remove Team from Favorite List
  - View a Team's details 
  - Edit a Team on Favorite List
  
