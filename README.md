@@ -47,4 +47,10 @@ CRUD App to pick your favorite teams
  - View a Team's details 
  - Edit a Team on Favorite List
  
+# Wireframe
+![alt+text](https://github.com/curiouslearner999/Project-2/blob/main/images/login.png)
+![alt+text](https://github.com/curiouslearner999/Project-2/blob/main/images/index.png)
+![alt+text](https://github.com/curiouslearner999/Project-2/blob/main/images/show.png)
 
+# ERD
+![alt+text](https://github.com/curiouslearner999/Project-2/blob/main/images/ERD.jpg)
